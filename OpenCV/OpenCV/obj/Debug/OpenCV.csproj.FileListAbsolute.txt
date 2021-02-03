@@ -1,0 +1,10 @@
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\bin\Debug\OpenCV.exe.config
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\bin\Debug\OpenCV.exe
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\bin\Debug\OpenCV.pdb
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.csprojAssemblyReference.cache
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.Form1.resources
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.Properties.Resources.resources
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.csproj.GenerateResource.cache
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.csproj.CoreCompileInputs.cache
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.exe
+C:\Users\EysanGuc\source\repos\OpenCV\OpenCV\obj\Debug\OpenCV.pdb
